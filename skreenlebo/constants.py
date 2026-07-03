@@ -1,0 +1,6 @@
+from PyQt6.QtGui import QColor
+
+OVERLAY_COLOR = QColor(0, 0, 0, 30)
+RECTANGLE_COLOR = QColor(0, 174, 255)
+
+RECTANGLE_BORDER = 2
